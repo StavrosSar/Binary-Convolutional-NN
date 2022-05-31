@@ -13,4 +13,3 @@ This is a Binary-Convolutional Neutral Network problem. It's either a pizza or a
 8) Make a prediction with our trained model. 
 
 
-I worked on Google Colab. 
